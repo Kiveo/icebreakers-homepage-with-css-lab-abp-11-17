@@ -67,6 +67,7 @@ div.questions h4 {
   margin-bottom: 10px;
 }
 div.questions a.btn {
+  padding: 18px;
   border-radius: 5px;
   color: #FFF;
   background-color: #007bff;
